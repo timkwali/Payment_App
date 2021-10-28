@@ -3,7 +3,7 @@
 * A beautiful splash screen greets you when you open the app.
 * App has swipe to refresh feature.
 * You can also refresh the list of items from the options menu.
-* Unit and instumentation test have been written to test the app.
+* Unit and instumentation tests have been written to test the app.
 * More features coming soon.
 
 ## Screenshots
