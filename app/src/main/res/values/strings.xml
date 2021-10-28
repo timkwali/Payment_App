@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Payment App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="payment_methods">Payment Methods</string>
+    <string name="payment_name">Payment Name</string>
+    <string name="refresh">Refresh</string>
+</resources>
